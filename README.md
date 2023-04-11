@@ -1,3 +1,3 @@
 # study_cafe
 
-Responsive website using simple HTML and CSS with animations utilizing gsap.  https://www.linkedin.com/posts/kinza-sheikh_css-html-animation-activity-7008019161876459521-J0CE?utm_source=share&utm_medium=member_desktop
+Responsive website using simple HTML and CSS with animations utilizing gsap. <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7008019088304173056" height="629" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
